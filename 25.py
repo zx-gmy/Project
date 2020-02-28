@@ -1,6 +1,5 @@
 """
-http server
-io多路复用，类封装练习
+asd
 """
 from socket import *
 from select import *
